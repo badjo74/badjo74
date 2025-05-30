@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Ayman (badjo74)
 
-<!--
-**badjo74/badjo74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer** | Passionate about building fast, responsive, and beautiful mobile apps.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack:
+- 💙 Dart & Flutter
+- 🖥️ Firebase / REST APIs
+- 🎨 UI/UX Design principles
+- ⚙️ Git, GitHub & Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects:
+- 📝 Task Manager App
+- 📅 Event Booking App
+- 🛍️ Simple E-Commerce UI
+
+## 🌱 Currently Learning:
+- Advanced Flutter Animations
+- Riverpod & Bloc State Management
+- App Monetization & Optimization
+
+## 📬 Contact Me:
+- 📧 badjo.dev@gmail.com *(أو الإيميل بتاعك الحقيقي)*
+- 📱 Telegram / WhatsApp: t.me/your_username
+
+---
+
+> "Code with passion, build with purpose." 🧠🔥
