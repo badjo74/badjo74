@@ -19,8 +19,10 @@
 - App Monetization & Optimization
 
 ## 📬 Contact Me:
-- 📧 badjo.dev@gmail.com *(أو الإيميل بتاعك الحقيقي)*
-- 📱 Telegram / WhatsApp: t.me/your_username
+- 📧 badjo.dev@gmail.com 
+- 📱 Telegram / t.me/@Badjo94
+-  WhatsApp:+201144199456
+
 
 ---
 
