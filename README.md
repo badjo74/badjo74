@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Ayman (badjo74)
+# 👋 Hi, I'm Mohamed Ayman (Badjo)
 
 🚀 **Flutter Developer** | Passionate about building fast, responsive, and beautiful mobile apps.
 
