@@ -2,9 +2,7 @@
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
 
-# 👋 Hi there, I'm **Mohamed Ayman (Badjo)**
-
-🚀 *Flutter Developer | Passionate about building fast, responsive, and beautiful mobile apps.*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Mohamed+Ayman+(Badjo)!;🚀+Flutter+Developer+from+Egypt;🔥+Building+beautiful%2C+fast%2C+responsive+apps!" />
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=badjo94&style=flat-square&color=blue)
 
@@ -12,39 +10,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-- 💙 Dart & Flutter  
-- 🖥️ Firebase / REST APIs  
-- 🎨 UI/UX Design principles  
-- ⚙️ Git, GitHub & Agile  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1565C0&vCenter=true&width=500&lines=💙+Dart+%26+Flutter;🖥️+Firebase+%2F+REST+APIs;🎨+UI%2FUX+Design+principles;⚙️+Git%2C+GitHub+%26+Agile" />
 
 ---
 
-## 📱 Projects
+### 📱 Projects
 
-- 📝 Task Manager App  
-- 📅 Event Booking App  
-- 🛍️ Simple E-Commerce UI  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1565C0&vCenter=true&width=500&lines=📝+Task+Manager+App;📅+Event+Booking+App;🛍️+Simple+E-Commerce+UI" />
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
-- 🎯 Advanced Flutter Animations  
-- 🔁 Riverpod & Bloc  
-- 💰 App Monetization & Optimization  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1565C0&vCenter=true&width=500&lines=🎯+Advanced+Flutter+Animations;🔁+Riverpod+%26+Bloc;💰+App+Monetization+%26+Optimization" />
 
 ---
 
-## 📬 Contact Me
+### 📬 Contact Me
 
-- 📧 **badjo.dev@gmail.com**  
-- 📱 [Telegram](https://t.me/Badjo94)  
-- 💬 WhatsApp: +20 114 419 9456  
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D47A1&center=true&vCenter=true&width=435&lines=Flutter+Developer;UI%2FUX+Lover;Always+Learning+%F0%9F%92%AA;Let's+Build+Great+Apps!+🚀" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1565C0&vCenter=true&width=500&lines=📧+badjo.dev@gmail.com;📱+Telegram+%40Badjo94;💬+WhatsApp%3A+%2B20+114+419+9456" />
